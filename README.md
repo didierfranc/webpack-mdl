@@ -18,7 +18,7 @@ entry: [
 ]
 ```
 
-Don't forget to add css ton your index.html
+Don't forget to add CSS and fonts to your `index.html`
 
 ```html
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
